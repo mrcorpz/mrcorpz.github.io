@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 body{
   margin: 0;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
   background: #080808;
   color: white;
 }
@@ -88,4 +88,18 @@ body{
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
   animation-duration: 0.8s;
+}
+
+.div1{
+  height: 150px;
+  overflow: hidden;
+}
+
+.svg1{
+  height: 100%; 
+  width: 100%;
+}
+.path1{
+  stroke: none; 
+  fill: rgb(17, 17, 17);
 }
