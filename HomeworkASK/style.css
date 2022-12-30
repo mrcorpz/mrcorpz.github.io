@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: Roboto;
+    
+}
+.karangan{
+    color: lemonchiffon;
+    font-size: 30px;
+}
+.biodata{
+    size: 80rem;
+}
